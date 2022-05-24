@@ -1,0 +1,6 @@
+Git commands
+create repositories: git init
+Make changes: git add, commit, status
+parallel development: git branch, merge, rebase
+sync repositories: git push, pull, add origin
+git help config : to get list of git commands
